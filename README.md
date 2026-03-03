@@ -18,7 +18,7 @@
         </li>
         <li>🦀 <b>Rust:</b> Mastering <b>Ownership, Borrowing, & Lifetimes</b> to build memory-safe, low-level tools.</li>
         <li>🔬 <b>Research:</b> Deep diving into <b>ML-based TCP congestion control</b>.</li>
-        <li>✉️ <b>Reach me:</b> <a href="mailto:shambhu.dev@example.com">shambhu.dev@example.com</a></li>
+        <li>✉️ <b>Reach me:</b> <a href="mailto:shambhu10356@gmail.com">shambhu.dev@example.com</a></li>
       </ul>
     </td>
     <td width="380px" align="center">
