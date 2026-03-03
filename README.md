@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 <picture> 
-  <img align="right" src="assets/hacker.gif" width="400px" alt="hacker-gif">
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RnZmQ1ZTgydWJrMmhzZ3JkODF1bmVmYnNvMzhlcXdwajhndHY0OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="400px" alt="hacker-gif">
 </picture>
 
 - 🚀 **Currently:** Building **NexusNode**, an enterprise knowledge engine using RAG.
@@ -47,11 +47,11 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sambhuyadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambhuyadav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
